@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER" : "Liron",
+    "DB_PASSWORD": "liron12345",
+    "DB_NAME": "mern-prod",
+    "GOOGLE_API_KEY": "AIzaSyD1EEhE0kUlg1tyh05u6NhZgypPNHsw7Rg",
+    "JWT_KEY": "production_secret_key"
+  }
+}
